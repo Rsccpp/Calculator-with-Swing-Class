@@ -14,8 +14,13 @@ A simple GUI-based calculator built using Java Swing, capable of performing basi
 
 ✔ Simple & responsive design with GridLayout
 
+🛠 Technologies Used
 
+* Java Swing (JFrame, JTextField, JButton, JGridLayout, etc.)
 
+* UIManager for system look & feel.
+
+* JOptionPane for error handling.
 
 
 
