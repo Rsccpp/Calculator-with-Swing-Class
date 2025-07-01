@@ -1,8 +1,9 @@
-📟 Swing Calculator
+
+# 📟 Swing Calculator
 
 A simple GUI-based calculator built using Java Swing, capable of performing basic arithmetic operations. This project demonstrates the use of JFrame, JTextField, JButton, and GridLayout to create an intuitive calculator interface.
 
-🌟 Features
+## 🌟 Features
 
 ✔ Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), Division (/)
 
@@ -14,7 +15,7 @@ A simple GUI-based calculator built using Java Swing, capable of performing basi
 
 ✔ Simple & responsive design with GridLayout
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 * Java Swing (JFrame, JTextField, JButton, JGridLayout, etc.)
 
